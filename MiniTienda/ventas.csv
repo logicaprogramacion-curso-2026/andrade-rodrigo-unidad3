@@ -1,0 +1,13 @@
+id_venta;producto_id;producto;categoria;cantidad;precio_unitario;descuento_pct;total;fecha
+1;1;Laptop;Computo;1;6500;0;6500;19/8/2026
+2;2;Mouse;Accesorios;5;155;0;775;19/8/2026
+3;3;Teclado;Accesorios;12;250;5;2850;19/8/2026
+4;4;Monitor;Computo;2;1800;0;3600;19/8/2026
+5;5;Audifonos;Accesorios;3;350;0;1050;19/8/2026
+6;2;Mouse;Accesorios;10;155;5;14725;19/8/2026
+7;1;Laptop;Computo;2;6500;0;13000;19/8/2026
+8;6;Webcam;Accesorios;4;450;0;1800;19/8/2026
+9;3;Teclado;Accesorios;3;250;0;750;19/8/2026
+10;4;Monitor;Computo;1;1800;0;1800;19/8/2026
+11;5;Audifonos;Accesorios;15;350;5;49875;19/8/2026
+12;2;Mouse;Accesorios;3;155;0;465;19/8/2026

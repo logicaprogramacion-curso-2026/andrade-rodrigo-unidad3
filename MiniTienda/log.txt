@@ -1,0 +1,17 @@
+[2026-08-19 21:04:20] Producto nuevo agregado: id=6, nombre=Webcam
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 1, 'producto_id': 1, 'producto': 'Laptop', 'categoria': 'Cómputo', 'cantidad': 1, 'precio_unitario': 650.0, 'descuento_pct': 0.0, 'total': 650.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 2, 'producto_id': 2, 'producto': 'Mouse', 'categoria': 'Accesorios', 'cantidad': 5, 'precio_unitario': 15.5, 'descuento_pct': 0.0, 'total': 77.5, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 3, 'producto_id': 3, 'producto': 'Teclado', 'categoria': 'Accesorios', 'cantidad': 12, 'precio_unitario': 25.0, 'descuento_pct': 0.05, 'total': 285.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 4, 'producto_id': 4, 'producto': 'Monitor', 'categoria': 'Cómputo', 'cantidad': 2, 'precio_unitario': 180.0, 'descuento_pct': 0.0, 'total': 360.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 5, 'producto_id': 5, 'producto': 'Audífonos', 'categoria': 'Accesorios', 'cantidad': 3, 'precio_unitario': 35.0, 'descuento_pct': 0.0, 'total': 105.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 6, 'producto_id': 2, 'producto': 'Mouse', 'categoria': 'Accesorios', 'cantidad': 10, 'precio_unitario': 15.5, 'descuento_pct': 0.05, 'total': 147.25, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 7, 'producto_id': 1, 'producto': 'Laptop', 'categoria': 'Cómputo', 'cantidad': 2, 'precio_unitario': 650.0, 'descuento_pct': 0.0, 'total': 1300.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 8, 'producto_id': 6, 'producto': 'Webcam', 'categoria': 'Accesorios', 'cantidad': 4, 'precio_unitario': 45.0, 'descuento_pct': 0.0, 'total': 180.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 9, 'producto_id': 3, 'producto': 'Teclado', 'categoria': 'Accesorios', 'cantidad': 3, 'precio_unitario': 25.0, 'descuento_pct': 0.0, 'total': 75.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 10, 'producto_id': 4, 'producto': 'Monitor', 'categoria': 'Cómputo', 'cantidad': 1, 'precio_unitario': 180.0, 'descuento_pct': 0.0, 'total': 180.0, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 11, 'producto_id': 5, 'producto': 'Audífonos', 'categoria': 'Accesorios', 'cantidad': 15, 'precio_unitario': 35.0, 'descuento_pct': 0.05, 'total': 498.75, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] Venta registrada: {'id_venta': 12, 'producto_id': 2, 'producto': 'Mouse', 'categoria': 'Accesorios', 'cantidad': 3, 'precio_unitario': 15.5, 'descuento_pct': 0.0, 'total': 46.5, 'fecha': '2026-08-19 21:04:20'}
+[2026-08-19 21:04:20] INTENTO FALLIDO - producto_id inexistente: 999
+[2026-08-19 21:04:20] CSV guardado: ventas.csv (12 filas)
+[2026-08-19 21:04:20] ERROR - intento de lectura de archivo inexistente: no_existe.csv
+[2026-08-19 21:04:20] Gráfico exportado a PNG: ingresos.png
